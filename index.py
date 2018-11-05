@@ -5,7 +5,7 @@ import time
 import random
 from logic import*
 
-token = 'db092bba9f025e26f7e4dace072ac184f26e8a3316a56788c93b8ddde8cc0aff2d38ca7dd0b703c00d74b'
+token = 'your token'
 
 vk = vk_api.VkApi(token=token)
 
